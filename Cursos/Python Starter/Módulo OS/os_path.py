@@ -2,6 +2,8 @@ import os
 
 os.getcwd()
 
+os.listdir()
+
 # Agrega uma pasta a um caminho. Retorna uma string
 os.path.join('/Users/rodrigosoares/', 'pasta')
 
